@@ -340,3 +340,4 @@ endif
 "bash_local语法高亮{{{
    autocmd BufNewFile,BufRead .bash_local set filetype=sh
 "}}}
+"

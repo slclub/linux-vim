@@ -30,3 +30,5 @@ Vim 自动化配置
     $ cd ~/.vim/bundle
     $ git clone https://github.com/scrooloose/nerdtree
 
+#### other
+    ......
