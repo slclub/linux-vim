@@ -26,7 +26,7 @@ Vim 自动化配置
 
 ### vim扩展组件说明
 #### nerdtree
-单独安装nerdtree
-$ cd ~/.vim/bundle
-git clone https://github.com/scrooloose/nerdtree
+    单独安装nerdtree
+    $ cd ~/.vim/bundle
+    $ git clone https://github.com/scrooloose/nerdtree
 
